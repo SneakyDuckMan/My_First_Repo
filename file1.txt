@@ -1,3 +1,4 @@
 first change in feature1 branch
 
+new change in feature2 branch
 new changes in feature3 branch
